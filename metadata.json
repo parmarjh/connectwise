@@ -1,0 +1,5 @@
+{
+  "name": "ConnectWise AI",
+  "description": "An AI-powered application to discover company insights and market intelligence ethically, using the Gemini API.",
+  "requestFramePermissions": []
+}
